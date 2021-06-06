@@ -1,0 +1,9 @@
+.frames {
+    margin: 0 auto;
+    width: 90vw;
+    height: 9vw;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    
+}
