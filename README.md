@@ -1,4 +1,4 @@
-#bowling
+# bowling
 
 *This project is a work in progress, and is a collaboration with the illustrious [@carlhauck](https://github.com/carlhauck).*
 
